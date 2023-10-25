@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h1><b>Ramdon Greetings</b></h1>
+  <h1><b>Ramdon Greetings Back End</b></h1>
 </div>
 
 # 📗 Table of Contents
@@ -26,6 +26,8 @@
 # 📖 Random Greetings <a name="about-project"></a>
 
 **Random Greetings** The Random Greetings App is a project that generates random greetings. It allows you to create a list of greetings and display a random greeting each time the app is run.
+
+[link to Front end repository](https://github.com/gersonhiggins/HelloWorldFrontEnd)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -75,8 +77,6 @@ Clone this repository to your desired folder and install required dependencies:
   cd my-folder
   git clone git@github.com:myaccount/my-project.git
   bundle install
-  npm install
-  npm run build
 ```
 
 ### Usage
@@ -87,7 +87,7 @@ To run the project, execute the following command:
   rails db:create
   rails db:migrate
   rails db:seed
-  rails s
+  rails s -p 3001
 ```
 
 ## 👥 Authors <a name="authors"></a>
