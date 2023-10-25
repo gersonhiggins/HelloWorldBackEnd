@@ -87,7 +87,7 @@ To run the project, execute the following command:
   rails db:create
   rails db:migrate
   rails db:seed
-  rails s
+  rails s -p 3001
 ```
 
 ## 👥 Authors <a name="authors"></a>
